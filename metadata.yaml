@@ -1,0 +1,35 @@
+_repo: Children-s-Classics-in-Dramatic-FormBook-Two_16379
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stevenson, Augusta
+    gutenberg_agent_id: '3576'
+    url: http://www.gutenberg.org/2009/agents/3576
+description: ''
+gutenberg_bookshelf: Children's Instructional Books
+gutenberg_issued: '2005-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16379'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s plays'
+- !lcc 'PN'
+tableOfContents: The clever kid -- The wolf and the horse -- The wise crow -- The
+  wolf and the lamb -- The selfish woman -- The blind men and the elephant -- The
+  stag and the fawn -- The shepherd-boy who called wolf -- The wish-bird -- Lazy Kate
+  -- The proud ring-finger -- The two millers -- The vain jackdaw -- The little jackal
+  and the camel -- The endless tale -- The hole in the dike -- The pot of gold --
+  The hare and the hedgehog -- Fishing on dry land -- The wise men of Gotham -- The
+  two questions -- Pocahontas and Captain Smith -- Pocahontas saves Jamestown -- King
+  Alfred and the cakes.
+title: 'Children''s Classics in Dramatic Form
+
+  Book Two'
+url: http://www.gutenberg.org/ebooks/16379
